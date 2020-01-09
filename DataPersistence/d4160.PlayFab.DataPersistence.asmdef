@@ -1,0 +1,17 @@
+{
+    "name": "d4160.PlayFab.DataPersistence",
+    "references": [
+        "GUID:55cfe4a4903765847b796b6965c0d4d9",
+        "GUID:ed470ed267a9a224790fec8410e5c27c",
+        "GUID:38257907825824cbd959d0a6e1ec6e8f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
