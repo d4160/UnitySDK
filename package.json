@@ -11,6 +11,10 @@
   "author": {
     "name": "PlayFab"
   },
+  "dependencies":{
+	"d4160.game-framework": "1.0.0",
+	"com.unity.game.foundation": "0.2.0-preview.3"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/PlayFab/UnitySDK.git"
