@@ -497,6 +497,13 @@ namespace PlayFab
         InsightsManagementTitleInEvaluationMode = 1493,
         CloudScriptAzureFunctionsQueueRequestError = 1494,
         EvaluationModeTitleCountExceeded = 1495,
+        InsightsManagementTitleNotInFlight = 1496,
+        LimitNotFound = 1497,
+        LimitNotAvailableViaAPI = 1498,
+        InsightsManagementSetStorageRetentionBelowMinimum = 1499,
+        InsightsManagementSetStorageRetentionAboveMaximum = 1500,
+        AppleNotEnabledForTitle = 1501,
+        InsightsManagementNewActiveEventArchiveLimitInvalid = 1502,
         MatchmakingEntityInvalid = 2001,
         MatchmakingPlayerAttributesInvalid = 2002,
         MatchmakingQueueNotFound = 2016,
@@ -568,6 +575,8 @@ namespace PlayFab
         ExperimentationNoScorecard = 7009,
         ExperimentationTreatmentAssignmentFailed = 7010,
         ExperimentationTreatmentAssignmentDisabled = 7011,
+        ExperimentationInvalidDuration = 7012,
+        ExperimentationMaxExperimentsReached = 7013,
         MaxActionDepthExceeded = 8000,
         SnapshotNotFound = 11000
     }
